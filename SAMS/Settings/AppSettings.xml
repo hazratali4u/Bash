@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+ <!-- <Server>(local)</Server>
+  <DBName>dbBash2</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>sa123</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>-->
+
+
+ <Server>(local)</Server>
+  <DBName>KKTD</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>sa123</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>
+</AppSettings>

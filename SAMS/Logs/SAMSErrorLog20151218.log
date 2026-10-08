@@ -1,0 +1,12 @@
+
+Machine Name:: SAFDERHUSSAIN
+User Name   :: Safder Hussain
+OS Version  :: Microsoft Windows NT 6.1.7601 Service Pack 1
+Date Time   :: 18 Dec 15 12:37:42
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\My App\My App\BASH\Application\SAMS\Forms\Default.aspx.cs:line 22
+: ----------------------------------
